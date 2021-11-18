@@ -8,5 +8,5 @@ Tela inicial
 Ao clicar em login sem dados nos campos, o botão faz animação de loading
 ![captura-tela-login-2](https://user-images.githubusercontent.com/29956737/142244329-c6854718-6ec3-44d8-8d0e-cee610ff9fd8.PNG)
 
-Caso não haja validação, o botão informa a mensagem de erro
+Caso não houver validação, o botão informa a mensagem de erro
 ![captura-tela-login-3](https://user-images.githubusercontent.com/29956737/142244334-27d4539e-c92a-452d-ac97-b01d5fd2f5cc.PNG)
